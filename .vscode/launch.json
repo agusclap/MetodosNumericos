@@ -1,0 +1,45 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "dsadsa",
+      "request": "launch",
+      "mainClass": "dsadsa",
+      "projectName": "Practico_f9263712"
+    },
+    {
+      "type": "java",
+      "name": "sdasd",
+      "request": "launch",
+      "mainClass": "sdasd",
+      "projectName": "Practico_f9263712"
+    },
+    {
+      "type": "java",
+      "name": "hola",
+      "request": "launch",
+      "mainClass": "hola",
+      "projectName": "Practico_f9263712"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/Usuario/Desktop/Facultad Ingenieria en Informatica/Materias 2º año/Segundo Semestre/Metodos Numericos en Computadoras/Practico",
+      "program": "c:/Users/Usuario/Desktop/Facultad Ingenieria en Informatica/Materias 2º año/Segundo Semestre/Metodos Numericos en Computadoras/Practico/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
